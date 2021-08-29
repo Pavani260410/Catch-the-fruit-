@@ -1,0 +1,15 @@
+canvas{
+    border: 10px ridge forestgreen;
+}
+@font-face {
+    font-family: 'Pavani';
+    src: url('PavaniHandwriting-Regular.ttf');
+    font-style: normal;
+    font-weight: 100;
+}
+p{
+font-family: Pavani;
+}
+button{
+height:30px;
+}
